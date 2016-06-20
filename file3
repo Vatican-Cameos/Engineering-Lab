@@ -1,0 +1,8 @@
+echo file1 1>file2
+cat>file1<< 'end of file1'
+Hello Nanhi.
+end of file file1
+echo file2 1>file2
+cat>file2<< 'end of file2'
+Hi kai
+end of file file2

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl"href="6a.xsl"?>
+<students>
+<VTU>
+<USN>ijs12iisss</USN><br/>
+<name>tabla</name><br/>
+<course>isi and alqueda training</course>
+<job>stealing candy from babies</job>
+</VTU>
+<VTU>
+<USN>ijs12iisss</USN>
+<name>tabu</name>
+<course>isis training</course>
+<job>bully</job>
+</VTU>
+</students>

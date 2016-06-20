@@ -1,0 +1,4 @@
+end of file Nanhi
+echo Kai 1>Kai
+cat>Kai << 'end of Kai'
+end of file Kai

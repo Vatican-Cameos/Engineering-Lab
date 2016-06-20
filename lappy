@@ -1,0 +1,8 @@
+echo hp 1>lenovo
+cat>hp << 'end of hp'
+Nanhi has Hp.
+end of hp
+echo lenovo 1>lenovo
+cat>lenovo << 'end of lenovo'
+Kai has Lenovo
+end of lenovo
